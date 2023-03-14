@@ -1,5 +1,5 @@
-$master = "puppet.sparkles.gg"
-$master_ip = "10.0.0.3"
+$master = "control.sparkles.gg"
+$master_ip = "10.0.0.11"
 $interval = "60"
 
 host { 'puppet.sparkles.gg' :
